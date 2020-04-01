@@ -57,7 +57,7 @@ Although the course does provides a sample data-set, it is advised that we used 
 
 Before we delve into the use-case, it is pertinent to describe, on a high-level, the platform which produces the data-set that we will use.
 
-Balena.io is a company that reduces friction for fleet-owners, people who develop applications and deploy code on a fleet of Internet of Things devices, primarily linux powered. In essence, we help the develop & ship their code to the devices, as also manage their fleet, it's quite awesome to be honest, since we have brought several paradigms of the cloud-native development to the world of embedded Linux devices. You can read more about the platform here.
+Balena.io is a company that reduces friction for fleet-owners, people who develop applications and deploy code on a fleet of IoT devices. In essence, we help the develop & ship their code to the devices, as also manage their fleet and in order to do that, we we have brought several paradigms of the cloud-native development to the world of embedded Linux devices.
 
 Each device that is managed by [balena-cloud](https://www.balena.io/cloud/) (the core product) and runs [BalenaOS](https://www.balena.io/os/), will connect to our back-end server, so that it can be managed remotely.
 
