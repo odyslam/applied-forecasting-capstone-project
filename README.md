@@ -79,6 +79,6 @@ Our **business-facing goal** is to work on the data-set on both hourly and daily
 
 Moreover, the project's goals and requirements are mentioned in the above section, where we will have the chance to benchmark statistical vs machine-learning methodologies.
 
-**Bonus**
+### Bonus
 An interesting additional point will be to see how the Covid-19 situation has affected the data-set, as we live in a time of great uncertainty, perhaps even in a time of another black swan.
  
