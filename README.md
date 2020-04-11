@@ -1,6 +1,6 @@
 # How to use this repository
 
-In order to view the project, please either open the relevant `.html` file or the jupyter notebook using a local installation of jupyter notebook or jupyter lab.
+In order to view the project, please either open 'Applied Forecasting Final Project.html' or the jupyter notebook 'Applied Forecasting Final Project.ipynb' using a local installation of jupyter notebook or jupyter lab.
 
 # Description
 
