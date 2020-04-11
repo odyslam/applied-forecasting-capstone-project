@@ -1,3 +1,7 @@
+# How to use this repository
+
+In order to view the project, please either open the relevant `.html` file or the jupyter notebook using a local installation of jupyter notebook or jupyter lab.
+
 # Description
 
 This is the repository for the final project of the course **Applied Forecasting**, 
@@ -98,4 +102,5 @@ For more information about `jupyter notebooks`:
  
 **Programming Languages:** 
 We will be using both python and R, in order to combine the best of both worlds. R has a very mature ecosystem of statistical and forecasting packages, making it very efficient to develop stastitic related applications there. Python has a very mature ecosystem of machine-learning libraries and is somewhat cleaner to read and easier to develop on (at least for me).
+
  
